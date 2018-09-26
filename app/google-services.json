@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "776088223968",
+    "firebase_url": "https://agora-vai-br.firebaseio.com",
+    "project_id": "agora-vai-br",
+    "storage_bucket": "agora-vai-br.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776088223968:android:766f3aba55452d64",
+        "android_client_info": {
+          "package_name": "com.example.alberto.agoravai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776088223968-vm2kmvkfmecg3j6eb6qfts1ac1lonilj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alberto.agoravai",
+            "certificate_hash": "5b4a9d416c6a8bb7fb18ee4a84845cb4f55984fa"
+          }
+        },
+        {
+          "client_id": "776088223968-6nqhuf72ec8sva2bee796nv0p3ia5oau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFj8D1fqAM-YTQ9eLV7oh8f87FgdFbUSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776088223968-6nqhuf72ec8sva2bee796nv0p3ia5oau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
