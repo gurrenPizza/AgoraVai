@@ -1,4 +1,4 @@
-package com.example.alberto.agoravai.Activities;
+package com.example.alberto.agoravai.Helper;
 
 import android.util.Base64;
 

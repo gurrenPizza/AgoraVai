@@ -1,4 +1,4 @@
-package com.example.alberto.agoravai.Activities;
+package com.example.alberto.agoravai.Entidades;
 
 public class Usuarios {
 
