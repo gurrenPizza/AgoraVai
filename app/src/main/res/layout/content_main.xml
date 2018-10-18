@@ -17,13 +17,9 @@
         android:id="@+id/txtTelaPrincipal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TELA PRINCIPAL"
-        android:textSize="25sp"
-        android:gravity="center"
-
-        />
-
-
+        android:text="Flash Cards: Como funcionam?"
+        android:textSize="20sp"
+        android:gravity="center"/>
 
     <Button
         android:id="@+id/btnEntraLogo"

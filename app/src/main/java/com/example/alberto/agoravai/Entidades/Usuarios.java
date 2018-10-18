@@ -13,6 +13,10 @@ public class Usuarios {
     public Usuarios() {
     }
 
+    public void salvar(){
+        //FALTA COMPLETAR
+    }
+
     public String getId() {
         return id;
     }
