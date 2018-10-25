@@ -15,14 +15,14 @@
         android:layout_height="wrap_content"
         android:text="Preencha todos os campos para efetuar o cadastro"
         android:layout_marginBottom="10dp"
-        android:textSize="22dp"
+        android:textSize="22sp"
         android:gravity="center"/>
 
     <EditText
         android:id="@+id/edtCadNome"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Nome"/>
+        android:hint="Nome" />
     <EditText
         android:id="@+id/edtCadSobrenome"
         android:layout_width="match_parent"
